@@ -85,7 +85,5 @@ Use SQL to:
 * Understanding which channels they use when they come back, and whether or not you are paying for them again through paid channels.*  
 * Using your repeat visit activity to build a better understanding of the value of a customer in order to better optimize marketing channels.*  
 
-
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@############################################################################$#
 # Thank you
 
